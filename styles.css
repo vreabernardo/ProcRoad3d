@@ -1,0 +1,12 @@
+/* Remove default margins and hide overflow */
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000;
+  }
+  
+  /* Ensure the canvas fills the screen */
+  canvas {
+    display: block;
+  }
+  
